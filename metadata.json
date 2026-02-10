@@ -1,0 +1,5 @@
+{
+  "name": "Flux",
+  "description": "An interactive, generative flow field art experience. Manipulate thousands of particles in real-time to create stunning, evolving visual patterns.",
+  "requestFramePermissions": []
+}
